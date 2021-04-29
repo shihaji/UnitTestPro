@@ -28,7 +28,7 @@ public class CalculatorTest {
 	@Parameters
 	public static Collection testDatas() {
 		
-		return Arrays.asList(new Object[][] {{5,5,15},{10,10,20},{3,3,6}});
+		return Arrays.asList(new Object[][] {{5,5,10},{10,10,20},{3,3,6}});
 		
 	}
 	
